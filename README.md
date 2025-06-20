@@ -64,7 +64,6 @@ Each color in the plot represents a different customer group based on income and
 ```
 ├── Mall_Customers.csv
 ├── hierarchical_clustering.py
-├── output_plot.png
 └── README.md
 ```
 
